@@ -1,0 +1,19 @@
+SET (icos_SRC	
+comp_cf.F90
+comp_cf4.F90
+er.F90
+interpolationCoeff.F90
+weightedLeastNorm.F90
+kdt.F90
+ll2xy.F90
+llxyz.F90
+middle.F90
+ml_precal_util.F90
+precal_itmesh.F90 
+precal_data.F90
+readnl.F90
+rh.F90
+rotate.F90
+yx_interpolations.F90
+weighting_data.F90
+)
